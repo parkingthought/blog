@@ -1,0 +1,1 @@
+PATH="/usr/local/opt/gnu-sed/libexec/gnubin:$PATH"&&sed -i 's/[0-9]//g' /Users/jacobroecker/Downloads/*.sbv&&sed -i 's/::.,::.//g' /Users/jacobroecker/Downloads/*.sbv&&sed -i '/^$/d' /Users/jacobroecker/Downloads/*.sbv
